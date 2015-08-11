@@ -14,4 +14,5 @@
 //= require jquery_ujs
 //= require turbolinks
 
-require("hello.js")();
+require("./hello.js")();
+

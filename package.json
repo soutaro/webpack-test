@@ -9,5 +9,8 @@
     "exports-loader": "~0.6.2",
     "lodash": "~2.4.1"
   },
-  "dependencies": {}
+  "dependencies": {
+    "express": "^4.13.3",
+    "webpack-dev-middleware": "^1.2.0"
+  }
 }
