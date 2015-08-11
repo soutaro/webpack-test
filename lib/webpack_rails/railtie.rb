@@ -1,7 +1,7 @@
 require "yaml"
 
 module WebpackRails
-  class Railtie < Rails::Engine
+  class Railtie < Rails::Railtie
     config.webpack_rails = ActiveSupport::OrderedOptions.new
 
     initializer :setup_webpack do |app|
