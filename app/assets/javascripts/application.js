@@ -14,5 +14,9 @@
 //= require jquery_ujs
 //= require turbolinks
 
-require("./hello.js")();
+// var bootstrap = require('bootstrap');
+// var foundation = require('angular');
 
+require("./hello.js")();
+// require("./style.css");
+// var logo = require('file!img!./ubiregi_logo_gray.png');
