@@ -1,3 +1,8 @@
+PATH
+  remote: lib/webpack_rails
+  specs:
+    webpack_rails (1.0)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -153,6 +158,7 @@ DEPENDENCIES
   turbolinks
   uglifier (>= 1.3.0)
   web-console (~> 2.0)
+  webpack_rails!
 
 BUNDLED WITH
    1.10.5
